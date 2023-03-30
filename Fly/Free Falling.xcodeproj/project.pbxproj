@@ -43,7 +43,7 @@
 		A716842B29D33C76004A709B = {
 			isa = PBXGroup;
 			children = (
-				A716843629D33C76004A709B /* Fly */,
+				A716843629D33C76004A709B /* Free Falling */,
 				A716843529D33C76004A709B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -56,7 +56,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A716843629D33C76004A709B /* Fly */ = {
+		A716843629D33C76004A709B /* Free Falling */ = {
 			isa = PBXGroup;
 			children = (
 				A716843729D33C76004A709B /* AppDelegate.swift */,
@@ -68,7 +68,7 @@
 				A716844429D33C77004A709B /* Assets.xcassets */,
 				A716844629D33C77004A709B /* LaunchScreen.storyboard */,
 			);
-			path = Fly;
+			path = "Free Falling";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
